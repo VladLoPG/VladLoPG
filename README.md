@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hello! I am a beginner programmer suffering from severe overload of information. 
+## Some software is being installed at the moment 👋
 
 <!--
 **VladLoPG/VladLoPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
